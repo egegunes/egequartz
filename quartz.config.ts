@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "hypersubject.net",
+    baseUrl: "ege.dev",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
