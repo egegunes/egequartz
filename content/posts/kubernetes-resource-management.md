@@ -3,6 +3,9 @@ title: "Kubernetes Resource Management"
 date: "2020-11-13"
 tags:
 - kubernetes
+aliases:
+- entries/2020/11/kubernetes-resource-management
+- entries/2020/11/kubernetes-resource-management/index
 ---
 
 I had the chance to listen to [Bekir Doğan’s

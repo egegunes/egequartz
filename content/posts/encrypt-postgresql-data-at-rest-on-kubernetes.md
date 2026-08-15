@@ -4,6 +4,9 @@ date: 2025-02-07T15:10:57+03:00
 tags:
 - postgresql
 - kubernetes
+aliases:
+- entries/2025/02/encrypt-postgresql-data-at-rest-on-kubernetes
+- entries/2025/02/encrypt-postgresql-data-at-rest-on-kubernetes/index
 ---
 
 The upcoming Percona Operator for PostgreSQL v2.6.0 release introduces support

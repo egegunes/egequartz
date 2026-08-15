@@ -3,6 +3,10 @@ title: "PortQuiz.net"
 date: 2020-04-19T13:14:57+03:00
 tags:
 - networking
+aliases:
+# only the /index form: the dotted last segment makes "portquiz.net.html" and
+# "portquiz.net/" ambiguous, so emit just the directory Hugo itself served
+- entries/2020/04/portquiz.net/index
 ---
 
 Recently, I was trying to connect to an Azure SQL database from a client's

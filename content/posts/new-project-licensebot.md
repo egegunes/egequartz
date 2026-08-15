@@ -4,17 +4,16 @@ date: "2018-11-28"
 tags:
 - github
 - go
+aliases:
+- entries/2018/11/new-project-license-bot
+- entries/2018/11/new-project-license-bot/index
 ---
 
 There is a new paranoid lawyer bot in town!
 
-[LicenseBot](https://twitter.com/license_bot) is the idea of [Akın
-Ömeroğlu](https://twitter.com/akinomeroglu). Basically, it monitors public
-events from Github and analyzes commits for license changes. If it founds one,
-tweets it.
+[LicenseBot](https://twitter.com/license_bot) is the idea of [Akın Ömeroğlu](https://twitter.com/akinomeroglu). Basically, it monitors public events from Github and analyzes commits for license changes. If it founds one, tweets it.
 
-Also, it's my first Go project. You can see the
-[source](https://github.com/egegunes/LicenseBot) on Github.
+Also, it's my first Go project. You can see the [source](https://github.com/egegunes/LicenseBot) on Github.
 
 <blockquote class="twitter-tweet" data-lang="en">
 <p lang="en" dir="ltr">

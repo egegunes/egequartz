@@ -4,6 +4,9 @@ date: 2026-03-27
 tags:
 - mysql
 - kubernetes
+aliases:
+- entries/2026/03/point-in-time-recovery-for-mysql-on-kubernetes
+- entries/2026/03/point-in-time-recovery-for-mysql-on-kubernetes/index
 ---
 
 Since the v1.0.0 release of the new MySQL Operator (K8SPS), point-in-time recovery (PiTR) has been the most anticipated feature. Naturally, we decided to implement it in the upcoming v1.1.0 release.

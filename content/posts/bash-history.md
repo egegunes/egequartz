@@ -3,7 +3,9 @@ title: "My Bash History"
 date: "2019-01-29"
 tags:
 - bash
-- cli
+aliases:
+- entries/2019/01/my-bash-history
+- entries/2019/01/my-bash-history/index
 ---
 
 This evening, I found [ginh.sh](https://github.com/crclark96/ginh) on [Changelog

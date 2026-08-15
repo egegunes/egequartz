@@ -5,6 +5,9 @@ tags:
 - kubernetes
 - mongodb
 - mysql
+aliases:
+- entries/2021/07/cluster-statuses-in-percona-kubernetes-operators
+- entries/2021/07/cluster-statuses-in-percona-kubernetes-operators/index
 ---
 
 In Kubernetes, all resources have a status field separated from their spec. The

@@ -3,7 +3,9 @@ title: "Setup a Scalable Ghost with Docker and Traefik"
 date: 2018-06-08T15:50:10Z
 tags:
 - docker
-- traefik
+aliases:
+- entries/2018/06/setup-a-scalable-ghost-with-docker-and-traefik
+- entries/2018/06/setup-a-scalable-ghost-with-docker-and-traefik/index
 ---
 
 I was hosting my static web site on Netlify. Then Github announced support for

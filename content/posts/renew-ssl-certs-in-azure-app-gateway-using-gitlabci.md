@@ -5,6 +5,9 @@ tags:
 - azure
 - gitlab
 - ssl
+aliases:
+- entries/2020/05/renew-ssl-certs-on-azure-application-gateway-with-gitlab-ci
+- entries/2020/05/renew-ssl-certs-on-azure-application-gateway-with-gitlab-ci/index
 ---
 
 Renewing SSL certificates on Azure Application Gateway is a regular toil for

@@ -2,8 +2,10 @@
 title: "Cloud Native Istanbul"
 date: 2018-11-11T21:13:00Z
 tags:
-- conference
-- cloud-native
+- meetup
+aliases:
+- entries/2018/11/cloud-native-istanbul
+- entries/2018/11/cloud-native-istanbul/index
 ---
 
 There is a new meetup in town that I'm very excited about: [Cloud Native Istanbul](https://www.meetup.com/Cloud-Native-Istanbul/)
@@ -12,7 +14,7 @@ The meetup is started by [Kaan Demircan](https://twitter.com/kaandemircan) and [
 
 I attended the first and so far only meeting of the group. It was a small meeting (11 people) in Akasya Shopping Mall.
 
-![meeting](/images/cloudnativeistanbul.jpeg)
+<img alt="meeting" src="https://hypersubject.b-cdn.net/images/cloud-native-istanbul/cloudnativeistanbul.jpeg">
 
 Naturally, it was an introductory meeting. We met with each other and chatted generally about new and old technologies, running systems in scale and the roadmap of the meetup.
 

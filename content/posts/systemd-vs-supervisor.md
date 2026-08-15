@@ -4,6 +4,9 @@ date: 2017-08-25T15:49:49Z
 tags:
 - linux
 - systemd
+aliases:
+- entries/2017/08/systemd-vs-supervisor
+- entries/2017/08/systemd-vs-supervisor/index
 ---
 
 [Supervisord](http://supervisord.org/) is a well-known tool among developers

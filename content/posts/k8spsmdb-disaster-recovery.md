@@ -4,6 +4,9 @@ date: 2021-10-08T15:10:57+03:00
 tags:
 - mongodb
 - kubernetes
+aliases:
+- entries/2021/10/disaster-recovery-for-mongodb-on-kubernetes
+- entries/2021/10/disaster-recovery-for-mongodb-on-kubernetes/index
 ---
 
 *This is a joint post with Sergey Pronin.*
@@ -33,7 +36,7 @@ In the 1.10.0 version of the Operator, we have added the Technology Preview of
 the new feature which enables users to deploy unmanaged MongoDB nodes and
 connect them to existing Replica Sets.
 
-![figure-0](/images/k8spsmdb-disaster-recovery/blog_mongodr_0.png)
+![figure-0](https://hypersubject.b-cdn.net/images/k8spsmdb-disaster-recovery/blog_mongodr_0.png)
 
 ### Set it All Up
 
@@ -61,7 +64,7 @@ through a dedicated service. This includes Config Servers. This is required to
 ensure that ReplicaSet nodes on Main and DR can reach each other. So it is like
 a full mesh:
 
-![figure-1](/images/k8spsmdb-disaster-recovery/blog_mongodr_1.png)
+![figure-1](https://hypersubject.b-cdn.net/images/k8spsmdb-disaster-recovery/blog_mongodr_1.png)
 
 To get there, cr-main.yaml has the following changes:
 
@@ -218,7 +221,7 @@ site is down or there is a network disruption between the Main and DR sites.
 
 Once all the configuration above is applied, the situation will look like this:
 
-![figure-2](/images/k8spsmdb-disaster-recovery/blog_mongodr_2.png)
+![figure-2](https://hypersubject.b-cdn.net/images/k8spsmdb-disaster-recovery/blog_mongodr_2.png)
 
 We have three voters in the main cluster and two voters in the replica cluster.
 That means replica nodes won’t have the majority in case of main cluster
@@ -248,7 +251,7 @@ I deleted the nodes and the node pool of the main Kubernetes cluster so now the 
 2021/09/03 18:19:49 write failed: (FailedToSatisfyReadPreference) Could not find host matching read preference { mode: "primary" } for set cfg
 ```
 
-![figure-3](/images/k8spsmdb-disaster-recovery/blog_mongodr_3.png)
+![figure-3](https://hypersubject.b-cdn.net/images/k8spsmdb-disaster-recovery/blog_mongodr_3.png)
 
 Normally, we can only alter the replica set configuration from the primary node
 but in this kind of situation where you don’t have a primary and only have a

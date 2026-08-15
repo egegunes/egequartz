@@ -4,13 +4,14 @@ date: 2018-11-08T20:48:50Z
 tags:
 - conference
 - kubernetes
+aliases:
+- entries/2018/11/redhat-forum-istanbul-2018
+- entries/2018/11/redhat-forum-istanbul-2018/index
 ---
 
-I attended to Red Hat Forum Istanbul like [last
-year](https://www.artistanbul.io/blog/2017/11/10/artistanbul-red-hat-forum-2017deydi/).
-It was both fun and professional as always.
+I attended to Red Hat Forum Istanbul like [last year](https://www.artistanbul.io/blog/2017/11/10/artistanbul-red-hat-forum-2017deydi/). It was both fun and professional as always.
 
-![Red Hat Forum 2018](/images/redhatforum2018.jpg)
+![Red Hat Forum 2018](https://hypersubject.b-cdn.net/images/redhat-forum-istanbul-2018/redhatforum2018.jpg)
 
 Although most of the talks (excluding sponsor talks) were about containers and
 Openshift (Kubernetes), the main topic of the coffee breaks was [IBM's
@@ -47,7 +48,7 @@ was sent by a POST request and there was no authentication. Jackpot!
 After sending a few requests, we showed our finding to one of the Red Hat
 employees. He found that so amusing that he wanted to take a photo together.
 
-![That photo](/images/redhatforum2018-1.jpg)
+![That photo](https://hypersubject.b-cdn.net/images/redhat-forum-istanbul-2018/redhatforum2018-1.jpg)
 
 But we were not the only clever ones in the event. Three more people exploited
 this vulnerability. In fact, we got a serious competition with one of them. He

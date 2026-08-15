@@ -3,7 +3,9 @@ title: "Building a Linux Kernel Module"
 date: 2020-04-23T00:21:24+03:00
 tags:
 - linux
-- kernel
+aliases:
+- entries/2020/04/building-a-linux-kernel-module
+- entries/2020/04/building-a-linux-kernel-module/index
 ---
 
 Last night a friend of mine asked for help for her homework on operating

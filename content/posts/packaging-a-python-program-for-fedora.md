@@ -5,12 +5,12 @@ tags:
 - python
 - fedora
 - packaging
+aliases:
+- entries/2019/09/packaging-a-python-program-for-fedora
+- entries/2019/09/packaging-a-python-program-for-fedora/index
 ---
 
-Being a Fedora contributor is one of my long term goals. Recently I took the
-first step by submitting the [Redmine
-CLI](https://github.com/egegunes/redmine-cli) to Fedora. Creating spec file is
-a bit hard, even for a trivial command line application. So I'll document the
+Being a Fedora contributor is one of my long term goals. Recently I took the first step by submitting the [Redmine CLI](https://github.com/egegunes/redmine-cli) to Fedora. Creating spec file is a bit hard, even for a trivial command line application. So I'll document the
 steps others to benefit.
 
 ## Spec file

@@ -4,6 +4,9 @@ date: 2026-03-12
 tags:
 - mysql
 - kubernetes
+aliases:
+- entries/2026/03/gremlins-in-haproxy
+- entries/2026/03/gremlins-in-haproxy/index
 ---
 
 We are in the process of certifying our operators for `<redacted>`. We started

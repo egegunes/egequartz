@@ -4,6 +4,9 @@ date: 2026-06-02T12:01:44+03:00
 tags:
 - lore
 - interview
+aliases:
+- links/databasestory
+- links/databasestory/index
 ---
 I got interviewed by [Eren Türkoğlu](https://erenkad.com/) about my work at Percona, my somewhat unusual transition from law to software, and how it all started because of Open Source.
 

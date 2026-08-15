@@ -5,6 +5,9 @@ tags:
 - ssh
 - gpg
 - security
+aliases:
+- entries/2017/11/i-carry-my-ssh-and-gpg-keys-all-the-time
+- entries/2017/11/i-carry-my-ssh-and-gpg-keys-all-the-time/index
 ---
 
 [Yubikeys](http://www.yubico.com/products/yubikey-hardware/) are great. Many use them just for 2 factor authentication. But Yubikeys are capable to hold your GPG keys also. And you can use your GPG keys for SSH authentication. So here is the story of how I carry my SSH keys in my pocket all the time in (almost) pain-free and relatively secure way.
