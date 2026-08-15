@@ -1,3 +1,6 @@
+---
+title: ege.dev
+---
 Hi, I'm Ege.
 
 I'm currently working at Percona on Kubernetes operators for MySQL, MongoDB
