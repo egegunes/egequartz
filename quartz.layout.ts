@@ -18,6 +18,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [...recentNotes.map((c) => Component.MobileOnly(c))],
   footer: Component.Footer({
     links: {
+      Wiki: "/wiki",
       RSS: "/index.xml",
       GitHub: "https://github.com/egegunes"
     },

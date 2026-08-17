@@ -8,8 +8,7 @@ and PostgreSQL, helping teams run open source databases on Kubernetes. All the
 work we do in Percona is open source and available [on GitHub](https://github.com/percona/).
 
 I got into programming by my fascination with Linux. I like minimalist setups and
-having a toolbox of CLI tools/scripts of my own. I [default to
-open](https://github.com/egegunes) everything I build.
+having a toolbox of CLI tools/scripts of my own. I [default to open](https://github.com/egegunes) everything I build.
 
 I mostly write Go for the operators, but I've shipped plenty of PHP, Python and
 JavaScript in production. I don't have rigid preferences when it comes to
