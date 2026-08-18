@@ -1,9 +1,7 @@
-+++
-title = 'Event Designators Cheat Sheet'
-date = 2026-08-08T12:38:34+03:00
-lastmod = 2026-08-08T12:38:34+03:00
-tags = []
-+++
+---
+title: 'Event Designators Cheat Sheet'
+tags: ["bash"]
+---
 
 # shell `!` (event designator) cheat sheet
 

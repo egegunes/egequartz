@@ -1,9 +1,7 @@
-+++
-title = 'http.Server'
-date = 2026-08-01T11:37:46+03:00
-lastmod = 2026-08-01T11:37:46+03:00
-tags = ["golang"]
-+++
+---
+title: 'http.Server'
+tags: ["golang"]
+---
 
 ## Graceful shutdown
 

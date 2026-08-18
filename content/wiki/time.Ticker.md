@@ -1,9 +1,7 @@
-+++
-title = 'time.Ticker'
-date = 2026-08-01T11:30:37+03:00
-lastmod = 2026-08-01T11:30:37+03:00
-tags = ["golang"]
-+++
+---
+title: 'time.Ticker'
+tags: ["golang"]
+---
 
 ## Simple
 

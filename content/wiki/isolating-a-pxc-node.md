@@ -1,9 +1,7 @@
-+++
-title = 'Isolating a PXC Node on K8s'
-date = 2026-07-31T19:36:29+03:00
-lastmod = 2026-07-31T19:36:29+03:00
-tags = ["pxc", "mysql", "kubernetes", "k8spxc"]
-+++
+---
+title: 'Isolating a PXC Node on K8s'
+tags: ["mysql", "kubernetes"]
+---
 
 isolating a PXC pod so it's removed from the cluster while running
 

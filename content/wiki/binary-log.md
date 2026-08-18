@@ -1,9 +1,7 @@
-+++
-title = 'MySQL Binlog'
-date = 2026-08-01T11:09:38+03:00
-lastmod = 2026-08-01T11:09:38+03:00
-tags = ["mysql"]
-+++
+---
+title: 'MySQL Binlog'
+tags: ["mysql"]
+---
 
 - Most numeric fields use fixed-length encoding with **little-endian** byte order. 
 	- When you see `7a000000` in a hex dump, you read it as `0x0000007a` = 122 in decimal.

@@ -1,9 +1,7 @@
-+++
-title = 'Binary Search'
-date = 2026-08-01T11:31:37+03:00
-lastmod = 2026-08-01T11:31:37+03:00
-tags = ["algorithms"]
-+++
+---
+title: 'Binary Search'
+tags: ["algorithms"]
+---
 
 ```go
 package main

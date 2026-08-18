@@ -1,9 +1,7 @@
-+++
-title = 'Bash required variable'
-date = 2026-07-31T19:49:38+03:00
-lastmod = 2026-07-31T19:49:38+03:00
-tags = ["bash"]
-+++
+---
+title: 'Required variable'
+tags: ["bash"]
+---
 
 Instead of doing this:
 ```

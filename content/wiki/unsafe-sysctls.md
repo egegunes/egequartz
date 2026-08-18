@@ -1,9 +1,7 @@
-+++
-title = 'Unsafe Sysctls'
-date = 2026-07-31T19:55:28+03:00
-lastmod = 2026-07-31T19:55:28+03:00
-tags = ["linux"]
-+++
+---
+title: 'Unsafe Sysctls'
+tags: ["linux", "kubernetes"]
+---
 
 Kubernetes maintains a list of safe sysctls to modify.
 

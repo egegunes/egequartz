@@ -1,9 +1,7 @@
-+++
-title = 'Hostnames With Multiple Headless Services'
-date = 2026-07-31T19:56:59+03:00
-lastmod = 2026-07-31T19:56:59+03:00
-tags = []
-+++
+---
+title: 'Hostnames With Multiple Headless Services'
+tags: ["kubernetes"]
+---
 
 ```
 $ k get pod cluster1-mysql-0 -o yaml | grep subdomain

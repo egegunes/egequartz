@@ -1,3 +1,9 @@
+---
+title: BCC tools in a debug container
+tags:
+- kubernetes
+---
+
 BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 https://github.com/iovisor/bcc
 

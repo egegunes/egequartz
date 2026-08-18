@@ -1,9 +1,7 @@
-+++
-title = 'Mutating a slice in struct'
-date = 2026-08-01T11:40:00+03:00
-lastmod = 2026-08-01T11:40:00+03:00
-tags = ["golang"]
-+++
+---
+title: 'Mutating a slice in struct'
+tags: ["golang"]
+---
 
 ```go
 package main

@@ -1,9 +1,7 @@
-+++
-title = 'vm.overcommit_memory'
-date = 2026-07-31T19:53:28+03:00
-lastmod = 2026-07-31T19:53:28+03:00
-tags = ["linux"]
-+++
+---
+title: 'vm.overcommit_memory'
+tags: ["linux", "kubernetes"]
+---
 
 `vm.overcommit_memory` needs to be set on kubernetes node since it's a kernel parameter.  
   

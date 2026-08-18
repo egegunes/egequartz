@@ -1,9 +1,7 @@
-+++
-title = 'MySQL Group Replication'
-date = 2026-08-01T11:11:11+03:00
-lastmod = 2026-08-01T11:11:11+03:00
-tags = ["mysql"]
-+++
+---
+title: 'MySQL Group Replication'
+tags: ["mysql"]
+---
 
 Group replication (GR) can operate in two modes:
 	1. Single primary

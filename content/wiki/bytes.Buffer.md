@@ -1,9 +1,7 @@
-+++
-title = 'bytes.Buffer'
-date = 2026-08-01T11:25:32+03:00
-lastmod = 2026-08-01T11:25:32+03:00
-tags = ["golang"]
-+++
+---
+title: 'bytes.Buffer'
+tags: ["golang"]
+---
 
 ## Direct Initialization vs Pre-allocated Buffer
 

@@ -1,5 +1,7 @@
 ---
 title: pg_subscription is a shared catalog
+tags:
+  - postgresql
 ---
 How is this possible??
 

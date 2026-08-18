@@ -1,5 +1,7 @@
 ---
 title: Fixing logical replication after DDL
+tags:
+  - postgresql
 ---
 ```
 ERROR:  logical replication target relation "public.t1" is missing replicated column: "b"

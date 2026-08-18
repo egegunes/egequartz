@@ -1,5 +1,7 @@
 ---
 title: Monitoring logical replication
+tags:
+  - postgresql
 ---
 After setting up the logical replica, any DDL on the primary is going to break the replication.
 
