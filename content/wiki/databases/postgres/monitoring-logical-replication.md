@@ -1,10 +1,6 @@
-+++
-title = 'Monitoring logical replication'
-date = 2026-08-10T18:59:51+03:00
-lastmod = 2026-08-10T18:59:51+03:00
-tags = ["replication"]
-+++
-
+---
+title: Monitoring logical replication
+---
 After setting up the logical replica, any DDL on the primary is going to break the replication.
 
 You'll see an error like:

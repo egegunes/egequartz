@@ -1,10 +1,6 @@
-+++
-title = 'Fixing logical replication After DDL'
-date = 2026-08-10T21:00:43+03:00
-lastmod = 2026-08-10T21:00:43+03:00
-tags = ["replication"]
-+++
-
+---
+title: Fixing logical replication after DDL
+---
 ```
 ERROR:  logical replication target relation "public.t1" is missing replicated column: "b"
 ```

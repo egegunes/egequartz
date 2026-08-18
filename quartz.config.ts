@@ -87,7 +87,8 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
         rssFullHtml: true,
-        rssFilter: (data) => data.relativePath?.startsWith("posts/") && data.slug! !== "posts/index" && data.frontmatter?.rss !== false,
+        rssFilter: (data) => (data.relativePath?.startsWith("posts/") && data.slug! !== "posts/index" && data.frontmatter?.rss !== false)
+          || (data.relativePath?.startsWith("wiki/") && !data.slug?.includes("index") && data.frontmatter?.rss !== false),
         rssLinkParams: "utm_source=rss&utm_medium=rss&utm_campaign=rss",
       }),
       Plugin.Assets(),
