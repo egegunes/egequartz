@@ -5,13 +5,13 @@ import { SimpleSlug } from "./quartz/util/path"
 const recentNotes = [
   Component.RecentNotes({
     title: "Recent Posts",
-    limit: 5,
+    limit: 4,
     filter: (f) => f.slug!.startsWith("posts/") && f.slug! !== "posts/index",
     linkToMore: "posts/" as SimpleSlug,
   }),
   Component.RecentNotes({
     title: "Recent Wiki Entries",
-    limit: 5,
+    limit: 3,
     filter: (f) => f.slug!.startsWith("wiki/") && !f.slug?.includes("index"),
     linkToMore: "wiki/" as SimpleSlug,
   }),
