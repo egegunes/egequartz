@@ -14,5 +14,19 @@ I mostly write Go for the operators, but I've shipped plenty of PHP, Python and
 JavaScript in production. I don't have rigid preferences when it comes to
 technology stack.
 
+### Contact me
+
 I enjoy listening others' stories and telling mine. If you have a story to
 tell, write to me at `egegunes at gmail dot com`.
+
+You can also find me as `egegunes` on [libera.chat](https://libera.chat/).
+
+### Blogroll
+
+- [Marco Tusa](https://www.tusacentral.net/joomla/)
+- [Kedar Vaijanapurkar](https://kedar.nitty-witty.com/blog/)
+- [Julia Evans](https://jvns.ca/)
+- [Drew DeVault](https://drewdevault.com/)
+- [sean goedecke](https://seangoedecke.com/)
+- [lefred](https://lefred.be/)
+- [rachelbythebay](https://rachelbythebay.com/)
