@@ -1,5 +1,7 @@
 ---
 title: 'time.Ticker'
+created: 2026-08-01T11:30:37+03:00
+modified: 2026-08-01T11:30:37+03:00
 tags: ["golang"]
 ---
 

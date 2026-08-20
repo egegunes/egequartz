@@ -1,5 +1,7 @@
 ---
 title: 'Unsafe Sysctls'
+created: 2026-07-31T19:55:28+03:00
+modified: 2026-07-31T19:55:28+03:00
 tags: ["linux", "kubernetes"]
 ---
 

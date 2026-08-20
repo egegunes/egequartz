@@ -1,5 +1,7 @@
 ---
 title: 'Isolating a PXC Node on K8s'
+created: 2026-07-31T19:36:29+03:00
+modified: 2026-07-31T19:36:29+03:00
 tags: ["mysql", "kubernetes"]
 ---
 

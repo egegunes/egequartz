@@ -1,5 +1,7 @@
 ---
 title: 'vm.overcommit_memory'
+created: 2026-07-31T19:53:28+03:00
+modified: 2026-07-31T19:53:28+03:00
 tags: ["linux", "kubernetes"]
 ---
 

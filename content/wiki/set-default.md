@@ -1,5 +1,7 @@
 ---
 title: 'SET DEFAULT'
+created: 2026-07-31T19:51:32+03:00
+modified: 2026-07-31T19:51:32+03:00
 tags: ["mysql"]
 ---
 

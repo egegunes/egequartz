@@ -1,5 +1,7 @@
 ---
 title: 'Mutating a slice in struct'
+created: 2026-08-01T11:40:00+03:00
+modified: 2026-08-01T11:40:00+03:00
 tags: ["golang"]
 ---
 

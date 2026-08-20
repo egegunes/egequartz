@@ -1,5 +1,7 @@
 ---
 title: 'MySQL Group Replication'
+created: 2026-08-01T11:11:11+03:00
+modified: 2026-08-01T11:11:11+03:00
 tags: ["mysql"]
 ---
 

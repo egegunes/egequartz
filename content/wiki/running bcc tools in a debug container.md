@@ -1,5 +1,7 @@
 ---
 title: BCC tools in a debug container
+created: 2026-08-18T11:33:08+03:00
+modified: 2026-08-18T11:33:08+03:00
 tags:
 - kubernetes
 ---

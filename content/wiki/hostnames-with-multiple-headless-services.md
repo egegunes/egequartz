@@ -1,5 +1,7 @@
 ---
 title: 'Hostnames With Multiple Headless Services'
+created: 2026-07-31T19:56:59+03:00
+modified: 2026-07-31T19:56:59+03:00
 tags: ["kubernetes"]
 ---
 

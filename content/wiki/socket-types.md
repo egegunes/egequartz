@@ -1,5 +1,7 @@
 ---
 title: 'Socket Types'
+created: 2026-07-31T19:59:08+03:00
+modified: 2026-07-31T19:59:08+03:00
 tags: ["linux"]
 ---
 

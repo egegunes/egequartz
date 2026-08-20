@@ -1,5 +1,7 @@
 ---
 title: 'Binary Search'
+created: 2026-08-01T11:31:37+03:00
+modified: 2026-08-01T11:31:37+03:00
 tags: ["algorithms"]
 ---
 

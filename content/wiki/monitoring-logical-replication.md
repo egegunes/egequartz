@@ -1,5 +1,7 @@
 ---
 title: Monitoring logical replication
+created: 2026-08-10T18:59:51+03:00
+modified: 2026-08-10T18:59:51+03:00
 tags:
   - postgresql
 ---

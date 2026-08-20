@@ -1,5 +1,7 @@
 ---
 title: 'Required variable'
+created: 2026-07-31T19:49:38+03:00
+modified: 2026-07-31T19:49:38+03:00
 tags: ["bash"]
 ---
 

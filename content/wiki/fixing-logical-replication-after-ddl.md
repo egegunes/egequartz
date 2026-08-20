@@ -1,5 +1,7 @@
 ---
 title: Fixing logical replication after DDL
+created: 2026-08-10T21:00:43+03:00
+modified: 2026-08-10T21:00:43+03:00
 tags:
   - postgresql
 ---

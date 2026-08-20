@@ -1,5 +1,7 @@
 ---
 title: 'Event Designators Cheat Sheet'
+created: 2026-08-08T12:38:34+03:00
+modified: 2026-08-08T12:38:34+03:00
 tags: ["bash"]
 ---
 

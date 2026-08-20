@@ -1,5 +1,7 @@
 ---
 title: pg_subscription is a shared catalog
+created: 2026-08-18T11:14:12+03:00
+modified: 2026-08-18T11:27:58+03:00
 tags:
   - postgresql
 ---
