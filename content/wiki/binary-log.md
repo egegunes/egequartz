@@ -1,8 +1,9 @@
 ---
-title: 'MySQL Binlog'
+title: MySQL Binlog
 created: 2026-08-01T11:09:38+03:00
-modified: 2026-08-01T11:09:38+03:00
-tags: ["mysql"]
+modified: 2026-08-21T22:46:38+03:00
+tags:
+  - mysql
 ---
 
 - Most numeric fields use fixed-length encoding with **little-endian** byte order. 
