@@ -11,7 +11,7 @@ const recentNotes = [
   }),
   Component.RecentNotes({
     title: "Recent Wiki Entries",
-    limit: 3,
+    limit: 5,
     filter: (f) => f.slug!.startsWith("wiki/") && !f.slug?.includes("index"),
     linkToMore: "wiki/" as SimpleSlug,
   }),
