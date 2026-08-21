@@ -169,27 +169,32 @@ blockquote {
 // part so the heading and the see-more link always stay visible. Scoped to
 // direct children of .sidebar.left, so the MobileOnly copies in the page body
 // are unaffected.
-.sidebar.left > .recent-notes {
-  display: flex;
-  flex-direction: column;
-  min-height: 0; // allow shrinking below content height inside the 100vh flex column
+// Wrapped in the non-mobile query: `display: flex` here would otherwise
+// out-specify the `.desktop-only { display: none }` rule that hides these
+// sections on mobile.
+@media all and not ($mobile) {
+  .sidebar.left > .recent-notes {
+    display: flex;
+    flex-direction: column;
+    min-height: 0; // allow shrinking below content height inside the 100vh flex column
 
-  & > h3,
-  & > p {
+    & > h3,
+    & > p {
+      flex-shrink: 0;
+    }
+
+    & > ul.recent-ul {
+      flex: 0 1 auto;
+      min-height: 0;
+      overflow-y: auto;
+      margin-bottom: 0;
+    }
+  }
+
+  // the header row (title/search/darkmode) must never get squeezed by the lists
+  .sidebar.left > .flex-component {
     flex-shrink: 0;
   }
-
-  & > ul.recent-ul {
-    flex: 0 1 auto;
-    min-height: 0;
-    overflow-y: auto;
-    margin-bottom: 0;
-  }
-}
-
-// the header row (title/search/darkmode) must never get squeezed by the lists
-.sidebar.left > .flex-component {
-  flex-shrink: 0;
 }
 
 // "See N more" links: dimmed body text with an underline for clickability,
