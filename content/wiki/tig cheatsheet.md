@@ -1,7 +1,7 @@
 ---
 note-type: wiki
 title: tig cheatsheet
-created: 2026-08-01T11:09:38+03:00
+created: 2026-09-14T15:51:38+03:00
 tags:
   - git
 ---
