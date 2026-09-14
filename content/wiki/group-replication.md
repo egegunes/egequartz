@@ -4,7 +4,6 @@ created: 2026-08-01T11:11:11+03:00
 modified: 2026-08-23T14:14:11+03:00
 tags:
   - mysql
-  - group-replication
 ---
 Group replication (GR) can operate in two modes:
 1. Single primary (default)

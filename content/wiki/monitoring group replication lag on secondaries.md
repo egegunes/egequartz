@@ -4,7 +4,6 @@ title: monitoring group replication lag on secondaries
 created: 2026-08-01T11:09:38+03:00
 tags:
   - mysql
-  - group-replication
 ---
 query:
 ```sql
